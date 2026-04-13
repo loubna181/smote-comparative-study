@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pkl
+.DS_Store
+results/figures/*.png
+results/csv_excel/*.csv
+results/pkl/*.pkl
+datasets_prepared/
+*.docx
+.ipynb_checkpoints/
