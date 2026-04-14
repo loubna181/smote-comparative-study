@@ -33,7 +33,6 @@ Total: 576 combinations x 17 datasets x 5 folds = 48,960 runs
     python src/01_run_experiments.py
     python src/02_statistical_analysis.py
     python src/03_generate_figures.py
-    python src/04_generate_report.py
 
 ## Reference
 
